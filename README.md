@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whatsacode
 - 👀 I’m interested in game coding, and understanding.
-- 🌱 I’m currently learning C and SQL
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on anything to help me better understand coding in general
 - 📫 How to reach me : mhxx1987@Gmail.com
 
